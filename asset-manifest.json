@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Simpals-test/static/js/main.f090ac21.chunk.js",
-    "main.js.map": "/Simpals-test/static/js/main.f090ac21.chunk.js.map",
-    "runtime-main.js": "/Simpals-test/static/js/runtime-main.7ef74908.js",
-    "runtime-main.js.map": "/Simpals-test/static/js/runtime-main.7ef74908.js.map",
-    "static/js/2.7c7442e5.chunk.js": "/Simpals-test/static/js/2.7c7442e5.chunk.js",
-    "static/js/2.7c7442e5.chunk.js.map": "/Simpals-test/static/js/2.7c7442e5.chunk.js.map",
-    "index.html": "/Simpals-test/index.html",
-    "precache-manifest.fe0936943cc65309b646b8c6720f850a.js": "/Simpals-test/precache-manifest.fe0936943cc65309b646b8c6720f850a.js",
-    "service-worker.js": "/Simpals-test/service-worker.js",
-    "static/js/2.7c7442e5.chunk.js.LICENSE.txt": "/Simpals-test/static/js/2.7c7442e5.chunk.js.LICENSE.txt"
+    "main.js": "/simpals-test/static/js/main.f090ac21.chunk.js",
+    "main.js.map": "/simpals-test/static/js/main.f090ac21.chunk.js.map",
+    "runtime-main.js": "/simpals-test/static/js/runtime-main.fdaa0fc8.js",
+    "runtime-main.js.map": "/simpals-test/static/js/runtime-main.fdaa0fc8.js.map",
+    "static/js/2.7c7442e5.chunk.js": "/simpals-test/static/js/2.7c7442e5.chunk.js",
+    "static/js/2.7c7442e5.chunk.js.map": "/simpals-test/static/js/2.7c7442e5.chunk.js.map",
+    "index.html": "/simpals-test/index.html",
+    "precache-manifest.f2f045dbd9de7ba36e37cc5ca8351f19.js": "/simpals-test/precache-manifest.f2f045dbd9de7ba36e37cc5ca8351f19.js",
+    "service-worker.js": "/simpals-test/service-worker.js",
+    "static/js/2.7c7442e5.chunk.js.LICENSE.txt": "/simpals-test/static/js/2.7c7442e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ef74908.js",
+    "static/js/runtime-main.fdaa0fc8.js",
     "static/js/2.7c7442e5.chunk.js",
     "static/js/main.f090ac21.chunk.js"
   ]
